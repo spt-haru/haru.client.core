@@ -1,2 +1,3 @@
-# haru.client.core
+# Haru.Client.Core
+
 Core client patches.
